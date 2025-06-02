@@ -3,6 +3,7 @@ import "./Category.styles.scss";
 import { Fragment, useContext, useEffect, useState } from "react";
 import { CategoriesContext } from "../../Context/Categories.context";
 import ProductCard from "../../components/ProductCard/ProductCard.component";
+//
 
 const Category = () => {
     const { category } = useParams();
