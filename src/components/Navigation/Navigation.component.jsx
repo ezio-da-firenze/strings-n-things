@@ -13,7 +13,7 @@ import CartDropdown from "../CartDropdown/CartDropdown.component";
 
 import { UserContext } from "../../Context/User.context";
 import { CartContext } from "../../Context/Cart.context";
-import { signOutUser } from "../../utils/Firebase/firebase.utils";
+import { signOutUser } from "../../utils/firebase/firebase.utils";
 
 const Navigation = () => {
     // getting the current user value from context

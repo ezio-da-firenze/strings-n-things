@@ -4,7 +4,7 @@ import {
     signInWithGoogleRedirect,
     createUserDocumentFromAuth,
     auth,
-} from "../../utils/Firebase/firebase.utils";
+} from "../../utils/firebase/firebase.utils";
 import "./Authentication.styles.scss";
 import { getRedirectResult } from "firebase/auth";
 import SignUpForm from "../../components/SignUpForm/SignUpForm.component";
