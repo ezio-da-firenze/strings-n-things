@@ -43,7 +43,7 @@ A modern, e-commerce web application for musical instruments built with React, F
   - Shopping cart management
   - Product categories
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -77,7 +77,7 @@ src/
 ## Live Link
 https://strings-n-thinz.netlify.app/
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -119,20 +119,20 @@ https://strings-n-thinz.netlify.app/
 5. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🎯 Product Categories
+## Product Categories
 
 The store features 8 main categories of musical instruments:
 
-- **🎸 Guitars** - Acoustic and electric guitars
-- **🎹 Pianos** - Digital and acoustic pianos
-- **🥁 Percussion** - Drum kits and percussion instruments  
-- **🎸 Bass** - Bass guitars and accessories
-- **🎵 Harmonica** - Various harmonica models
-- **🎺 Brass** - Trumpets, saxophones, and brass instruments
-- **🪈 Flutes** - Concert and student flutes
-- **🎤 Microphones** - Recording and performance microphones
+- **🎸 Guitars** 
+- **🎹 Pianos** 
+- **🥁 Percussion** 
+- **🎸 Bass** 
+- **🎵 Harmonica** 
+- **🎺 Brass** 
+- **🪈 Flutes** 
+- **🎤 Microphones** 
 
-## 💡 Key Features Deep Dive
+## Key Features Deep Dive
 
 ### Shopping Cart Management
 - **Add to Cart**: One-click addition from product cards
@@ -148,7 +148,7 @@ The store features 8 main categories of musical instruments:
 - **Protected Routes**: Checkout requires authentication
 - **User Context**: Global user state across all components
 
-## 🔧 Available Scripts
+## Available Scripts
 
 ```bash
 # Start development server
@@ -162,7 +162,7 @@ npm run preview
 
 ```
 
-## 🌟 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -178,18 +178,18 @@ We welcome contributions! Please follow these steps:
 - Update documentation for new features
 - Test thoroughly before submitting
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Firebase** - Backend infrastructure and authentication
 - **React Team** - Amazing frontend framework
 - **Styled Components** - Elegant styling solution
 - **Music Industry** - Inspiration for product categories
 
-## 📞 Support
+## Support
 
 For support, email dixitparthsarathi@gmail.com or create an issue on GitHub.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Payment integration (Stripe/PayPal)
 - [ ] Product reviews and ratings
