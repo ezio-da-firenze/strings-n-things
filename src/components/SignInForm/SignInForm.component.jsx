@@ -75,7 +75,15 @@ const SignInForm = () => {
                     value={password}
                     onChange={handleChange}
                 />
-                <div className="buttons-container" style={{ display: "flex", flexDirection: "row" }}>
+                <div
+                    className="buttons-container"
+                    style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "space-between",
+                        alignItems: "center"
+                    }}
+                >
                     <Button type="submit">Sign In</Button>
                     <Button
                         type="button"
