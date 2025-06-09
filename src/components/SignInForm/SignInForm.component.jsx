@@ -75,7 +75,7 @@ const SignInForm = () => {
                     value={password}
                     onChange={handleChange}
                 />
-                <div className="buttons-container">
+                <div className="buttons-container" style={{ display: "flex", flexDirection: "row" }}>
                     <Button type="submit">Sign In</Button>
                     <Button
                         type="button"
