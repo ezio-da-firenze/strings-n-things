@@ -8,7 +8,7 @@ import {
     NavLink,
 } from "./Navigation.styles";
 import CartIcon from "../CartIcon/CartIcon.component";
-import crownLogo from "../../assets/crown.svg";
+import crownLogo from "../../assets/snt_logo.svg";
 import CartDropdown from "../CartDropdown/CartDropdown.component";
 
 import { UserContext } from "../../Context/User.context";
